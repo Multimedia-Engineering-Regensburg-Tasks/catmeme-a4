@@ -1,0 +1,16 @@
+{
+    "name": "cat-meme-generator",
+    "version": "0.0.1",
+    "description": "A Javascript application to create random cat memes",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Alexander Bazo <alexanderbazo@googlemail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
